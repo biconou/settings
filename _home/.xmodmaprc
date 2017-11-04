@@ -1,0 +1,10 @@
+! fichier à placer dans le répertoire home.
+! pour lister les mappings actifs : xmodmap -pke
+! pour voir les énénements : xev
+! dans la configuration kde utiliser PC générique 101 touches et disposition Français (Azerty)
+!keycode  49 = less greater less greater bar brokenbar bar
+!keycode  94 = twosuperior NoSymbol twosuperior
+keycode 248 = Delete NoSymbol Delete
+keycode  66 = Control_L
+clear Lock
+add Control = Control_L
