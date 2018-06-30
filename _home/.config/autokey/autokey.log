@@ -1,0 +1,177 @@
+2018-06-30 17:03:04,997 INFO - root - Initialising application
+2018-06-30 17:03:05,002 INFO - root - Initialise global hotkeys
+2018-06-30 17:03:05,002 INFO - config-manager - No configuration found - creating new one
+2018-06-30 17:03:05,004 INFO - config-manager - Configuration changed - rebuilding in-memory structures
+2018-06-30 17:03:05,004 INFO - config-manager - Persisting configuration
+2018-06-30 17:03:05,004 INFO - config-manager - Finished persisting configuration - no errors
+2018-06-30 17:03:05,004 INFO - service - Starting service
+2018-06-30 17:03:05,051 INFO - interface - XRecord interface thread starting
+2018-06-30 17:03:05,052 INFO - service - Service now marked as running
+2018-06-30 17:03:05,080 INFO - root - Displaying configuration window
+2018-06-30 17:03:05,226 INFO - root - Entering main()
+2018-06-30 17:03:36,349 INFO - config-manager - Configuration changed - rebuilding in-memory structures
+2018-06-30 17:03:36,349 INFO - config-manager - Persisting configuration
+2018-06-30 17:03:36,349 INFO - config-manager - Backing up existing config file
+2018-06-30 17:03:36,350 INFO - config-manager - Finished persisting configuration - no errors
+2018-06-30 17:03:39,000 INFO - config-manager - Configuration changed - rebuilding in-memory structures
+2018-06-30 17:03:39,000 INFO - config-manager - Persisting configuration
+2018-06-30 17:03:39,000 INFO - config-manager - Backing up existing config file
+2018-06-30 17:03:39,001 INFO - config-manager - Finished persisting configuration - no errors
+2018-06-30 17:03:42,311 INFO - config-manager - Configuration changed - rebuilding in-memory structures
+2018-06-30 17:03:42,312 INFO - config-manager - Persisting configuration
+2018-06-30 17:03:42,313 INFO - config-manager - Backing up existing config file
+2018-06-30 17:03:42,315 INFO - config-manager - Finished persisting configuration - no errors
+2018-06-30 17:04:33,638 INFO - config-manager - Configuration changed - rebuilding in-memory structures
+2018-06-30 17:04:33,651 INFO - config-manager - Configuration changed - rebuilding in-memory structures
+2018-06-30 17:04:33,651 INFO - config-manager - Persisting configuration
+2018-06-30 17:04:33,652 INFO - config-manager - Backing up existing config file
+2018-06-30 17:04:33,653 INFO - config-manager - Finished persisting configuration - no errors
+2018-06-30 17:12:30,933 INFO - root - Initialising application
+2018-06-30 17:12:30,937 INFO - root - Initialise global hotkeys
+2018-06-30 17:12:30,938 INFO - config-manager - Loading config from existing file: /home/remi/.config/autokey/autokey.json
+2018-06-30 17:12:30,942 INFO - config-manager - Configuration changed - rebuilding in-memory structures
+2018-06-30 17:12:30,942 INFO - config-manager - Successfully loaded configuration
+2018-06-30 17:12:30,942 INFO - service - Starting service
+2018-06-30 17:12:30,988 INFO - interface - XRecord interface thread starting
+2018-06-30 17:12:30,988 INFO - service - Service now marked as running
+2018-06-30 17:12:31,016 INFO - root - Displaying configuration window
+2018-06-30 17:12:31,161 INFO - root - Entering main()
+2018-06-30 17:14:16,125 INFO - config-manager - Configuration changed - rebuilding in-memory structures
+2018-06-30 17:14:21,436 INFO - config-manager - Configuration changed - rebuilding in-memory structures
+2018-06-30 17:14:35,006 INFO - config-manager - Configuration changed - rebuilding in-memory structures
+2018-06-30 17:14:50,475 INFO - config-manager - Configuration changed - rebuilding in-memory structures
+2018-06-30 17:15:22,507 INFO - config-manager - Configuration changed - rebuilding in-memory structures
+2018-06-30 17:15:48,774 INFO - config-manager - Configuration changed - rebuilding in-memory structures
+2018-06-30 17:16:07,612 INFO - config-manager - Configuration changed - rebuilding in-memory structures
+2018-06-30 17:16:30,464 INFO - config-manager - Configuration changed - rebuilding in-memory structures
+2018-06-30 17:16:39,094 INFO - config-manager - Configuration changed - rebuilding in-memory structures
+2018-06-30 17:16:46,075 INFO - config-manager - Configuration changed - rebuilding in-memory structures
+2018-06-30 17:16:51,655 INFO - config-manager - Configuration changed - rebuilding in-memory structures
+2018-06-30 17:16:51,656 INFO - config-manager - Persisting configuration
+2018-06-30 17:16:51,657 INFO - config-manager - Backing up existing config file
+2018-06-30 17:16:51,659 INFO - config-manager - Finished persisting configuration - no errors
+2018-06-30 17:17:15,783 INFO - root - Displaying configuration window
+2018-06-30 17:17:21,886 INFO - config-manager - Configuration changed - rebuilding in-memory structures
+2018-06-30 17:17:21,887 INFO - config-manager - Persisting configuration
+2018-06-30 17:17:21,888 INFO - config-manager - Backing up existing config file
+2018-06-30 17:17:21,889 INFO - config-manager - Finished persisting configuration - no errors
+2018-06-30 17:17:47,193 INFO - service - Matched hotkey phrase/script with prompt=False
+2018-06-30 17:17:47,579 INFO - service - Matched hotkey phrase/script with prompt=False
+2018-06-30 17:17:47,740 INFO - service - Matched hotkey phrase/script with prompt=False
+2018-06-30 17:17:48,048 INFO - service - Matched hotkey phrase/script with prompt=False
+2018-06-30 17:17:48,240 INFO - service - Matched hotkey phrase/script with prompt=False
+2018-06-30 17:17:48,437 INFO - service - Matched hotkey phrase/script with prompt=False
+2018-06-30 17:17:48,685 INFO - service - Matched hotkey phrase/script with prompt=False
+2018-06-30 17:17:48,848 INFO - service - Matched hotkey phrase/script with prompt=False
+2018-06-30 17:17:48,977 INFO - service - Matched hotkey phrase/script with prompt=False
+2018-06-30 17:17:49,121 INFO - service - Matched hotkey phrase/script with prompt=False
+2018-06-30 17:17:49,502 INFO - service - Matched hotkey phrase/script with prompt=False
+2018-06-30 17:17:51,427 INFO - service - Matched hotkey phrase/script with prompt=False
+2018-06-30 17:17:52,289 INFO - service - Matched hotkey phrase/script with prompt=False
+2018-06-30 17:17:53,227 INFO - service - Matched hotkey phrase/script with prompt=False
+2018-06-30 17:17:58,459 INFO - service - Matched hotkey phrase/script with prompt=False
+2018-06-30 17:18:09,389 INFO - service - Matched hotkey phrase/script with prompt=False
+2018-06-30 17:18:09,644 INFO - service - Matched hotkey phrase/script with prompt=False
+2018-06-30 17:18:09,784 INFO - service - Matched hotkey phrase/script with prompt=False
+2018-06-30 17:18:09,925 INFO - service - Matched hotkey phrase/script with prompt=False
+2018-06-30 17:18:10,076 INFO - service - Matched hotkey phrase/script with prompt=False
+2018-06-30 17:18:10,224 INFO - service - Matched hotkey phrase/script with prompt=False
+2018-06-30 17:18:10,431 INFO - service - Matched hotkey phrase/script with prompt=False
+2018-06-30 17:18:10,642 INFO - service - Matched hotkey phrase/script with prompt=False
+2018-06-30 17:18:10,780 INFO - service - Matched hotkey phrase/script with prompt=False
+2018-06-30 17:18:10,933 INFO - service - Matched hotkey phrase/script with prompt=False
+2018-06-30 17:18:11,085 INFO - service - Matched hotkey phrase/script with prompt=False
+2018-06-30 17:18:11,685 INFO - service - Matched hotkey phrase/script with prompt=False
+2018-06-30 17:18:11,727 INFO - service - Matched hotkey phrase/script with prompt=False
+2018-06-30 17:18:11,767 INFO - service - Matched hotkey phrase/script with prompt=False
+2018-06-30 17:18:11,806 INFO - service - Matched hotkey phrase/script with prompt=False
+2018-06-30 17:18:11,845 INFO - service - Matched hotkey phrase/script with prompt=False
+2018-06-30 17:18:11,886 INFO - service - Matched hotkey phrase/script with prompt=False
+2018-06-30 17:18:11,925 INFO - service - Matched hotkey phrase/script with prompt=False
+2018-06-30 17:18:11,964 INFO - service - Matched hotkey phrase/script with prompt=False
+2018-06-30 17:18:12,004 INFO - service - Matched hotkey phrase/script with prompt=False
+2018-06-30 17:18:12,092 INFO - service - Matched hotkey phrase/script with prompt=False
+2018-06-30 17:18:15,605 INFO - service - Matched hotkey phrase/script with prompt=False
+2018-06-30 17:18:30,954 INFO - root - Displaying configuration window
+2018-06-30 17:18:43,017 INFO - config-manager - Configuration changed - rebuilding in-memory structures
+2018-06-30 17:18:45,819 INFO - service - Matched hotkey phrase/script with prompt=False
+2018-06-30 17:18:46,355 INFO - service - Matched hotkey phrase/script with prompt=False
+2018-06-30 17:19:59,178 INFO - config-manager - Configuration changed - rebuilding in-memory structures
+2018-06-30 17:20:03,769 INFO - config-manager - Configuration changed - rebuilding in-memory structures
+2018-06-30 17:20:15,138 INFO - service - Matched hotkey phrase/script with prompt=False
+2018-06-30 17:20:15,834 INFO - service - Matched hotkey phrase/script with prompt=False
+2018-06-30 17:20:16,200 INFO - service - Matched hotkey phrase/script with prompt=False
+2018-06-30 17:20:16,407 INFO - service - Matched hotkey phrase/script with prompt=False
+2018-06-30 17:20:17,255 INFO - service - Matched hotkey phrase/script with prompt=False
+2018-06-30 17:20:17,554 INFO - service - Matched hotkey phrase/script with prompt=False
+2018-06-30 17:20:17,858 INFO - service - Matched hotkey phrase/script with prompt=False
+2018-06-30 17:20:18,068 INFO - service - Matched hotkey phrase/script with prompt=False
+2018-06-30 17:20:18,329 INFO - service - Matched hotkey phrase/script with prompt=False
+2018-06-30 17:20:18,546 INFO - service - Matched hotkey phrase/script with prompt=False
+2018-06-30 17:20:18,821 INFO - service - Matched hotkey phrase/script with prompt=False
+2018-06-30 17:20:19,550 INFO - service - Matched hotkey phrase/script with prompt=False
+2018-06-30 17:20:19,777 INFO - service - Matched hotkey phrase/script with prompt=False
+2018-06-30 17:20:20,225 INFO - service - Matched hotkey phrase/script with prompt=False
+2018-06-30 17:20:20,407 INFO - service - Matched hotkey phrase/script with prompt=False
+2018-06-30 17:20:20,548 INFO - service - Matched hotkey phrase/script with prompt=False
+2018-06-30 17:20:20,747 INFO - service - Matched hotkey phrase/script with prompt=False
+2018-06-30 17:20:21,084 INFO - service - Matched hotkey phrase/script with prompt=False
+2018-06-30 17:20:21,299 INFO - service - Matched hotkey phrase/script with prompt=False
+2018-06-30 17:20:21,900 INFO - service - Matched hotkey phrase/script with prompt=False
+2018-06-30 17:20:21,940 INFO - service - Matched hotkey phrase/script with prompt=False
+2018-06-30 17:20:21,984 INFO - service - Matched hotkey phrase/script with prompt=False
+2018-06-30 17:20:22,024 INFO - service - Matched hotkey phrase/script with prompt=False
+2018-06-30 17:20:22,064 INFO - service - Matched hotkey phrase/script with prompt=False
+2018-06-30 17:20:22,110 INFO - service - Matched hotkey phrase/script with prompt=False
+2018-06-30 17:20:22,151 INFO - service - Matched hotkey phrase/script with prompt=False
+2018-06-30 17:20:22,191 INFO - service - Matched hotkey phrase/script with prompt=False
+2018-06-30 17:20:22,233 INFO - service - Matched hotkey phrase/script with prompt=False
+2018-06-30 17:20:22,273 INFO - service - Matched hotkey phrase/script with prompt=False
+2018-06-30 17:20:22,314 INFO - service - Matched hotkey phrase/script with prompt=False
+2018-06-30 17:20:22,352 INFO - service - Matched hotkey phrase/script with prompt=False
+2018-06-30 17:20:22,393 INFO - service - Matched hotkey phrase/script with prompt=False
+2018-06-30 17:20:22,434 INFO - service - Matched hotkey phrase/script with prompt=False
+2018-06-30 17:20:22,475 INFO - service - Matched hotkey phrase/script with prompt=False
+2018-06-30 17:20:22,515 INFO - service - Matched hotkey phrase/script with prompt=False
+2018-06-30 17:20:22,555 INFO - service - Matched hotkey phrase/script with prompt=False
+2018-06-30 17:20:22,690 INFO - service - Matched hotkey phrase/script with prompt=False
+2018-06-30 17:20:22,847 INFO - service - Matched hotkey phrase/script with prompt=False
+2018-06-30 17:20:22,981 INFO - service - Matched hotkey phrase/script with prompt=False
+2018-06-30 17:20:23,117 INFO - service - Matched hotkey phrase/script with prompt=False
+2018-06-30 17:20:23,747 INFO - service - Matched hotkey phrase/script with prompt=False
+2018-06-30 17:20:24,000 INFO - service - Matched hotkey phrase/script with prompt=False
+2018-06-30 17:20:28,253 INFO - service - Matched hotkey phrase/script with prompt=False
+2018-06-30 17:20:28,534 INFO - service - Matched hotkey phrase/script with prompt=False
+2018-06-30 17:20:28,753 INFO - service - Matched hotkey phrase/script with prompt=False
+2018-06-30 17:20:28,935 INFO - service - Matched hotkey phrase/script with prompt=False
+2018-06-30 17:20:29,069 INFO - service - Matched hotkey phrase/script with prompt=False
+2018-06-30 17:20:29,210 INFO - service - Matched hotkey phrase/script with prompt=False
+2018-06-30 17:20:29,387 INFO - service - Matched hotkey phrase/script with prompt=False
+2018-06-30 17:20:30,211 INFO - service - Matched hotkey phrase/script with prompt=False
+2018-06-30 17:20:30,409 INFO - service - Matched hotkey phrase/script with prompt=False
+2018-06-30 17:20:30,609 INFO - service - Matched hotkey phrase/script with prompt=False
+2018-06-30 17:20:30,738 INFO - service - Matched hotkey phrase/script with prompt=False
+2018-06-30 17:20:30,880 INFO - service - Matched hotkey phrase/script with prompt=False
+2018-06-30 17:20:31,781 INFO - service - Matched hotkey phrase/script with prompt=False
+2018-06-30 17:20:32,381 INFO - service - Matched hotkey phrase/script with prompt=False
+2018-06-30 17:20:32,423 INFO - service - Matched hotkey phrase/script with prompt=False
+2018-06-30 17:20:32,461 INFO - service - Matched hotkey phrase/script with prompt=False
+2018-06-30 17:20:32,501 INFO - service - Matched hotkey phrase/script with prompt=False
+2018-06-30 17:20:32,541 INFO - service - Matched hotkey phrase/script with prompt=False
+2018-06-30 17:20:32,581 INFO - service - Matched hotkey phrase/script with prompt=False
+2018-06-30 17:20:32,620 INFO - service - Matched hotkey phrase/script with prompt=False
+2018-06-30 17:20:32,660 INFO - service - Matched hotkey phrase/script with prompt=False
+2018-06-30 17:20:32,700 INFO - service - Matched hotkey phrase/script with prompt=False
+2018-06-30 17:20:32,739 INFO - service - Matched hotkey phrase/script with prompt=False
+2018-06-30 17:20:32,782 INFO - service - Matched hotkey phrase/script with prompt=False
+2018-06-30 17:20:32,824 INFO - service - Matched hotkey phrase/script with prompt=False
+2018-06-30 17:20:32,861 INFO - service - Matched hotkey phrase/script with prompt=False
+2018-06-30 17:20:32,903 INFO - service - Matched hotkey phrase/script with prompt=False
+2018-06-30 17:20:32,944 INFO - service - Matched hotkey phrase/script with prompt=False
+2018-06-30 17:20:32,982 INFO - service - Matched hotkey phrase/script with prompt=False
+2018-06-30 17:20:33,025 INFO - service - Matched hotkey phrase/script with prompt=False
+2018-06-30 17:20:33,064 INFO - service - Matched hotkey phrase/script with prompt=False
+2018-06-30 17:25:46,447 INFO - config-manager - Configuration changed - rebuilding in-memory structures
+2018-06-30 17:25:46,447 INFO - config-manager - Persisting configuration
+2018-06-30 17:25:46,447 INFO - config-manager - Backing up existing config file
+2018-06-30 17:25:46,448 INFO - config-manager - Finished persisting configuration - no errors
